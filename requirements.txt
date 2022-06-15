@@ -80,7 +80,6 @@ google-cloud-storage==1.31.2
 google-crc32c==1.0.0
 google-resumable-media==1.0.0
 googleapis-common-protos==1.52.0
-graphviz==0.8.4
 hsluv==5.0.2
 hydra-core==1.1.0
 identify==2.2.13
