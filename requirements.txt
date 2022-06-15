@@ -69,7 +69,6 @@ ftfy==6.0.3
 future==0.18.2
 gast==0.3.3
 geojson==2.5.0
-gfpgan==0.2.1
 gitdb==4.0.9
 GitPython==3.1.27
 glcontext==2.2.0
@@ -163,7 +162,6 @@ opencv-python==4.5.5.64
 opencv-python-headless==4.5.5.64
 openpyxl==3.0.7
 packaging==20.9
-paddlepaddle-gpu==2.1.2
 pandas==1.2.0
 pandocfilters==1.4.3
 param==1.12.1
@@ -242,9 +240,6 @@ starlette==0.17.1
 streamlit==1.7.0
 tb-nightly==2.7.0a20210929
 tenacity==8.0.1
-tensorboard==2.4.1
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.0
 terminado==0.9.5
 testpath==0.5.0
 threadpoolctl==2.1.0
