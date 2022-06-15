@@ -82,7 +82,6 @@ google-resumable-media==1.0.0
 googleapis-common-protos==1.52.0
 graphviz==0.8.4
 greenlet==1.1.2
-grpcio==1.37.0
 hsluv==5.0.2
 hydra-core==1.1.0
 identify==2.2.13
