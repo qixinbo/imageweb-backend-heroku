@@ -12,7 +12,6 @@ from sciapp.util.shputil import json2shp, geom2shp, xy_canvas2np
 import base64
 import json
 import numpy as np
-import cv2
 from PIL import Image as PILImage
 from io import BytesIO
 import copy
@@ -97,6 +96,7 @@ async def img(
     roi: str = Form(...) 
     ):
 
+    import cv2
     # read file stream
     contents = await file.read()
     pil_img = PILImage.open(BytesIO(contents))
