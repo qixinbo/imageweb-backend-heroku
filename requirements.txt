@@ -1,3 +1,4 @@
+python==3.7.9
 absl-py==0.12.0
 addict==2.4.0
 aiobotocore==2.2.0
@@ -8,7 +9,6 @@ albumentations==0.5.2
 altair==4.2.0
 antlr4-python3-runtime==4.8
 anyio==3.5.0
-APIFlask==0.12.0
 apispec==5.1.1
 argon2-cffi==20.1.0
 asgiref==3.5.0
@@ -140,12 +140,12 @@ matplotlib-inline==0.1.2
 mccabe==0.6.1
 mistune==0.8.4
 mkl-fft==1.3.1
-mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
+mkl-random==1.2.2
 mkl-service==2.4.0
 moderngl==5.6.2
 msgpack==1.0.3
 multidict==4.7.6
-mxnet-cu102 @ file:///D:/src/mxnet_cu102-1.7.0-py2.py3-none-win_amd64.whl
+mxnet-cu102==1.7.0
 natsort==7.0.1
 nbclient==0.5.3
 nbconvert==6.0.7
@@ -155,7 +155,7 @@ networkx==2.5
 nodeenv==1.6.0
 notebook==6.4.0
 numba==0.51.2
-numpy @ file:///C:/ci/numpy_and_numpy_base_1650959324056/work
+numpy==1.19.3
 numpy-stl==2.16.0
 oauthlib==3.1.0
 omegaconf==2.1.1
@@ -236,7 +236,7 @@ Send2Trash==1.5.0
 Shapely==1.7.1
 shellcheck-py==0.7.2.1
 shortuuid==1.0.8
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+six==1.16.0
 slicerator==1.0.0
 smmap==5.0.0
 sniffio==1.2.0
@@ -263,7 +263,7 @@ tqdm==4.50.0
 traitlets==5.0.5
 traittypes==0.2.1
 trimesh==3.9.20
-typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+typing_extensions==4.1.1
 tzdata==2021.5
 tzlocal==4.1
 urllib3==1.26.5
